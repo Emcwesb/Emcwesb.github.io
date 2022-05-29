@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #03C4EB;
+  background: #073fac;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -157,8 +157,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px;
 }
 #hero .btn-get-started {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: #073fac;
+  border: 2px solid #073fac;
   color: #fff;
 }
 #hero .btn-get-started:hover {
@@ -420,7 +420,7 @@ section {
 .section-title-divider {
   width: 50px;
   height: 3px;
-  background: #03C4EB;
+  background: #073fac;
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -474,10 +474,10 @@ section {
 }
 #services .service-icon {
   float: left;
-  background: #03C4EB;
+  background: #073fac;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #03C4EB;
+  border: 1px solid #073fac;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -836,7 +836,7 @@ section {
   transition: 0.4s;
 }
 #contact .php-email-form button[type=submit]:hover {
-  background: #25d8fc;
+  background: #073fac;
 }
 @-webkit-keyframes animate-loading {
   0% {
